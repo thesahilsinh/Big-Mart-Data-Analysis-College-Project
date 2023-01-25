@@ -15,6 +15,9 @@ STEP-3:- Download Our Project Files from github
 https://github.com/thesahilsinh/Big-Mart-Data-Analysis-College-Project
 
 --> Download Coding of DAV.zip file and Extract in to your Desktop.
+--> I have downloaded this project Test and Train Data from kaggle
+
+https://www.kaggle.com/brijbhushannanda1979/bigmart-sales-data (kaggle link of dataset)
 
 STEP-4:- Run Program And Understand Concepts.
 
